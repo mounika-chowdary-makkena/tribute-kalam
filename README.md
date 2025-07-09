@@ -13,4 +13,9 @@ The page highlights:
 ## 💻 Live Website
 
 You can view the project live here:  
-👉 [Click to open tribute site](
+👉 [Click to open tribute site]( https://mounika-chowdary-makkena.github.io/tribute-kalam/)
+## 🙋‍♀️ Author
+
+- **Mounika Chowdary Makkena**
+- Student, BTech at Gitam University
+- Created this project as a part of frontend learning journey
